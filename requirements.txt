@@ -1,0 +1,15 @@
+DiscordUtils
+PyNaCl
+akinator.py
+asyncio
+dblpy
+discord
+discord-py-slash-command
+discord-together
+discord_components
+dominant-color-detection
+psutil
+requests
+wikipedia
+youtube-search-python
+youtube_dl
